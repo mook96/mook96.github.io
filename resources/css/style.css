@@ -121,6 +121,10 @@ h2:after {
     line-height: 145%;
 }
 
+.about-me {
+    margin-bottom: 30px;
+}
+
 /* --------ICONS-------- */
 .icon-big {
     font-size: 350%;
@@ -145,6 +149,10 @@ h2:after {
     margin-top: -5px;
 }
 
+.react-logo {
+    max-width: 146px;
+    margin-top: 15px;
+}
 
 /* --------LINKS-------- */
 
