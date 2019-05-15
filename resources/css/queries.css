@@ -138,4 +138,19 @@
 @media only screen and (max-width: 480px) {
     section {padding: 25px 0; }
     .contact-form {width: 100%;}
+
+}
+
+@media only screen and (max-width: 415px) {
+    .icon-big {
+        margin-left: 164px;
+    }
+    
+}
+
+@media only screen and (max-width: 376px) {
+    .icon-big {
+        margin-left: 150px;
+    }
+    
 }
